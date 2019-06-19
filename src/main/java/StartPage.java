@@ -8,4 +8,10 @@ public void Imie(){
 
 }
 
+    public void Nazwisko(){
+
+    }
+    public void ImieINazwisko(){
+
+    }
 }
