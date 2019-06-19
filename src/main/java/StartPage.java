@@ -14,4 +14,8 @@ public void Imie(){
     public void ImieINazwisko(){
 
     }
+
+    public void ImieCioci(){
+
+    }
 }
